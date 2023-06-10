@@ -22,13 +22,20 @@ The project is structured as follows:
 - Excel: File format used for storing the cleaned real estate data.
 - Power BI: Business intelligence tool for data analysis and visualization.
 
+## Future Plans
+
+[] Try to Parse the ammenities provided from advert
+[] Try to load into a database (MySQL)
+[] Export dashboard into PDF
+[] Create a website to show the dashboard
+
 ## Getting Started
 
 To set up and run the project locally, follow these steps:
 
 1. Clone the project repository from GitHub. `git clone https://github.com/aaryadevg/Real-Estate-ETL`
 
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependencies.
 
 3. Run the data collection script to fetch the real estate data from the [Real Estate Data from 7 Indian Cities](https://www.kaggle.com/datasets/rakkesharv/real-estate-data-from-7-indian-cities) dataset.
 
