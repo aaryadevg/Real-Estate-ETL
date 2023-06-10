@@ -24,10 +24,10 @@ The project is structured as follows:
 
 ## Future Plans
 
-[] Try to Parse the ammenities provided from advert
-[] Try to load into a database (MySQL)
-[] Export dashboard into PDF
-[] Create a website to show the dashboard
+- [] Try to Parse the ammenities provided from advert
+- [] Try to load into a database (MySQL)
+- [] Export dashboard into PDF
+- [] Create a website to show the dashboard
 
 ## Getting Started
 
