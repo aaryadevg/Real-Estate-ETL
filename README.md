@@ -4,7 +4,7 @@
 Real Estate ETL is a data engineering project focused on analyzing the real estate market in India. The project involves collecting and cleaning real estate data from various sources and aims to provide insights into property market across major cities in India. The data has been collected from the [Real Estate Data from 7 Indian Cities](https://www.kaggle.com/datasets/rakkesharv/real-estate-data-from-7-indian-cities) dataset available on Kaggle. The project utilizes Extract, Transform, and Load (ETL) processes to prepare the data for analysis.
 
 ## Dashboard (Screenshot)
-[Dashboard](https://github.com/aaryadevg/Real-Estate-ETL/blob/main/dashboard/Dashboard.png)
+<img src="https://github.com/aaryadevg/Real-Estate-ETL/blob/main/dashboard/Dashboard.png" />
 
 ## Project Structure
 
