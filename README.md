@@ -25,6 +25,20 @@ The project is structured as follows:
 - Excel: File format used for storing the cleaned real estate data.
 - Power BI: Business intelligence tool for data analysis and visualization.
 
+## Dependencies
+
+### Software
+- Microsoft Excel (>2016)
+- Microsoft PowerBI
+
+### Python
+- Pandas
+- openpyxl
+
+### R
+- ggplot2
+- scales
+
 ## Future Plans
 
 - [] Try to Parse the ammenities provided from advert
